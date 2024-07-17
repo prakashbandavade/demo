@@ -1,3 +1,3 @@
 # demo
 this is my first git repository
-autor-prakash bandavade
+author-prakash bandavade
